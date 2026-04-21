@@ -1,0 +1,9 @@
+# Block the heavy model files
+similarity.pkl
+movie_dict.pkl
+
+# Block environment and cache
+.venv/
+__pycache__/
+
+# Do NOT list the CSV files here if you want to upload them
